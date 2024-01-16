@@ -1,0 +1,17 @@
+C:\Users\Nick\projects\CheckinBlock\bin\Debug\net8.0-windows\CheckinBlock.exe
+C:\Users\Nick\projects\CheckinBlock\bin\Debug\net8.0-windows\CheckinBlock.deps.json
+C:\Users\Nick\projects\CheckinBlock\bin\Debug\net8.0-windows\CheckinBlock.runtimeconfig.json
+C:\Users\Nick\projects\CheckinBlock\bin\Debug\net8.0-windows\CheckinBlock.dll
+C:\Users\Nick\projects\CheckinBlock\bin\Debug\net8.0-windows\CheckinBlock.pdb
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.Form1.resources
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.vbproj.GenerateResource.cache
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.AssemblyInfoInputs.cache
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.AssemblyInfo.vb
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.vbproj.CoreCompileInputs.cache
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.sourcelink.json
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.dll
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\refint\CheckinBlock.dll
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.pdb
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\CheckinBlock.genruntimeconfig.cache
+C:\Users\Nick\projects\CheckinBlock\obj\Debug\net8.0-windows\ref\CheckinBlock.dll
